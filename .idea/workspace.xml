@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d5f97d2-26c3-454c-ad8c-c5de7faa6b0b" name="Default Changelist" comment="" />
+    <list default="true" id="2d5f97d2-26c3-454c-ad8c-c5de7faa6b0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +12,9 @@
   <component name="ComposerSettings" doNotAsk="true">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -120,6 +125,9 @@
       <updated>1600774825533</updated>
       <workItem from="1600774826603" duration="602000" />
       <workItem from="1600779279383" duration="8792000" />
+      <workItem from="1600827219012" duration="472000" />
+      <workItem from="1600827699366" duration="1957000" />
+      <workItem from="1600884732071" duration="2461000" />
     </task>
     <servers />
   </component>
@@ -127,10 +135,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600786173192">
+    <state x="429" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600861717786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600786173192" />
+    <state x="429" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600861717786" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600827695521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600827695521" />
     <state x="408" y="87" key="NewPhpClassDialog" timestamp="1600779326714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -139,5 +151,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600797863436" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1600884895398">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1600884895398" />
   </component>
 </project>
