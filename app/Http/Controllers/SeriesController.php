@@ -29,6 +29,6 @@ class SeriesController extends Controller
         $serie = Serie::create([
             'nome' => $nome,
         ]);
-        echo "Série com id: {$serie->id} criada. {$serie->nome}";
+        return redirect('/series');
     }
 }

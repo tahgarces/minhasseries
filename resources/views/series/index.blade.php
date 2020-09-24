@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section('cabecalho')
-        Series
+        Séries
 @endsection
 @section('conteudo')
     <a href="/series/criar" class="btn btn-dark mb-3">Adicionar</a>
