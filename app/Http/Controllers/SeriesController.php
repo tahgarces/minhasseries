@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 
 
+use App\Http\Requests\SeriesFormRequest;
 use App\Serie;
 use http\Env\Request;
 
@@ -23,8 +24,11 @@ class SeriesController extends Controller
         return view('series.create');
     }
 
-    public function store(\Illuminate\Http\Request $request)
+    public function store(SeriesFormRequest $request)
     {
+
+
+
         $nome = $request->nome;
 
 

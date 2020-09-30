@@ -4,9 +4,7 @@
     <list default="true" id="2d5f97d2-26c3-454c-ad8c-c5de7faa6b0b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SeriesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SeriesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_09_23_183140_criar_tabela_series.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_09_23_183140_criar_tabela_series.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/series/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/series/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/series/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/series/create.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +131,7 @@
       <workItem from="1600827699366" duration="1957000" />
       <workItem from="1600884732071" duration="7943000" />
       <workItem from="1601345192548" duration="992000" />
-      <workItem from="1601426442102" duration="2907000" />
+      <workItem from="1601426442102" duration="4011000" />
     </task>
     <servers />
   </component>
